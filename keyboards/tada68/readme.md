@@ -40,7 +40,7 @@ $ make tada68:default:flashbin
 
 1) from the `qmk_firmware\` directory run:
 ```
-$ make tada68:default:flashbin
+$ make tada68:mac:flashbin
 ```
 
 2) Connect your keyboard to your Mac, hit the reset button on the bottom of the TADA, the lights will start flashing.
